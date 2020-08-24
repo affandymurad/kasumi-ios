@@ -10,27 +10,27 @@ Mini Project of Kasumi video list. Allow you to open YouTube trailer without Net
 
 *App Details*
 <br/>
-<img src="https://raw.githubusercontent.com/affandymurad/kasumi-ios/master/doc/ios.gif" width="250" height="400">
+<img src="https://raw.githubusercontent.com/affandymurad/kasumi-ios/master/Doc/ios.gif" width="250" height="400">
 <br/>
 
 *App Icon*
 <br/>
-<img src="https://raw.githubusercontent.com/affandymurad/kasumi-ios/master/doc/ios1.jpg" width="250" height="400">
+<img src="https://raw.githubusercontent.com/affandymurad/kasumi-ios/master/Doc/ios1.jpg" width="250" height="400">
 <br/>
 
 *Movie List*
 <br/>
-<img src="https://raw.githubusercontent.com/affandymurad/kasumi-ios/master/doc/ios2.jpg" width="250" height="400">
+<img src="https://raw.githubusercontent.com/affandymurad/kasumi-ios/master/Doc/ios2.jpg" width="250" height="400">
 <br/>
 
 *Movie Detail*
 <br/>
-<img src="https://raw.githubusercontent.com/affandymurad/kasumi-ios/master/doc/ios3.jpg" width="250" height="400">
+<img src="https://raw.githubusercontent.com/affandymurad/kasumi-ios/master/Doc/ios3.jpg" width="250" height="400">
 <br/>
 
 *YouTube player*
 <br/>
-<img src="https://raw.githubusercontent.com/affandymurad/kasumi-ios/master/doc/ios4.jpg" width="250" height="400">
+<img src="https://raw.githubusercontent.com/affandymurad/kasumi-ios/master/Doc/ios4.jpg" width="250" height="400">
 <br/>
 
 
