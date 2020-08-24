@@ -13,7 +13,7 @@ import Alamofire
 
 class NetworkManager {
     static let baseUrl = "https://api.themoviedb.org/3"
-    static let token = "f002c90cf2d54e6b83801cbe9408e82b"
+    static let token = ""
     static let baseImage = "http://image.tmdb.org/t/p/w500"
     static let sharedInstance = MoyaProvider<ApiProvider>(session: DefaultAlamofireManager.sharedManager, plugins: [NetworkLoggerPlugin()])
 }
